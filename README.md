@@ -16,16 +16,37 @@ To be added
 
 Download MS COCO 2017 dataset by https://cocodataset.org/#download
 
-You will need 2017 Train images [118K/18GB], 2017 Train/Val annotations [241MB]
+You will need ***2017 Train images [118K/18GB]***
 
-Unzip 2017 Train images into data/coco/train2017/
+Unzip Train images into data/coco/train2017/
 
-Unzip 2017 Train/Val annotations into data/coco/edge/
+Unzip Segmentation images into data/coco/edge/
 
-## Testing
+Run
 
-Copy your image to folder "Test" and run
+```py
+python main.py
+```
+
+## Testing (Code base)
+
+Copy your test images to folder Test/example/ and run
 
 ```py
 python eval_test.py
 ```
+Results are generated at Test/our/
+
+## Testing (.exe) [Window only]
+
+Make sure you also download folder 'model', 'model' and .exe file are under same directory 
+
+Open **sketch.exe**
+
+Select test image by clicking button 'Select image'
+
+'Photo2Sketch' will process sketch image by our previous method
+
+'Photo2Sketch_v2' will process sketch image by our improved method
+
+Click 'Save image' to save result in your computer
