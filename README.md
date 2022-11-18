@@ -2,7 +2,7 @@
 
 Chun-Chun Hui, Wan-Chi Siu, Wen-Xin Zhang and H. Anthony Chan, "Quality Photo Sketch with Improved Deep Learning Structure", Proceedings, IEEE Region 10 Conference (TENCON 2022), 01-04 November 2022, Hong Kong
 
-[sketch_paper_v20.pdf](https://github.com/GreyCC/Photo2Sketch_v2/files/10039553/sketch_paper_v20.pdf)
+Download paper: [Quality Photo Sketch with Improved Deep Learning Structure.pdf](https://github.com/GreyCC/Photo2Sketch_v2/files/10039634/Quality.Photo.Sketch.with.Improved.Deep.Learning.Structure.pdf)
 
 This repo provides simple testing codes, pretrained models and the demonstration executive file for simple testing.
 
