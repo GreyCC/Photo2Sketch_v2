@@ -1,8 +1,6 @@
 # Photo2SketchV2 (Quality Photo Sketch with Improved Deep Learning Structure)
 
-Paper proceeding to 2022 IEEE Region 10 Conference (TENCON)
-
-By Chun-Chun Hui, Wan-Chi Siu, Wen-Xin Zhang and H. Anthony Chan
+Chun-Chun Hui, Wan-Chi Siu, Wen-Xin Zhang and H. Anthony Chan, "Quality Photo Sketch with Improved Deep Learning Structure", Proceedings, IEEE Region 10 Conference (TENCON 2022), 01-04 November 2022, Hong Kong
 
 This repo provides simple testing codes, pretrained models and the demonstration executive file for simple testing.
 
