@@ -6,7 +6,11 @@ This repo provides simple testing codes, pretrained models and the demonstration
 
 We propose a photo to sketch convolutional neural network that output quality photo sketch with simple improved structure on our network structure
 
+Please check our paper (link to be added)
+
 # BibTex
+
+\cite{key}
 
 To be added
 
