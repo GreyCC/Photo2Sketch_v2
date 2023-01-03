@@ -1,4 +1,4 @@
-# Photo2SketchV2 (Quality Photo Sketch with Improved Deep Learning Structure)
+# Quality Photo Sketch with Improved Deep Learning Structure
 
 Link to this paper: https://ieeexplore.ieee.org/abstract/document/9978022
 
