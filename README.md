@@ -13,7 +13,15 @@ We propose a photo to sketch convolutional neural network that output quality ph
 # BibTex
 
 ```
-@INPROCEEDINGS{9978022,  author={Hui, Chun-Chuen and Siu, Wan-Chi and Zhang, Wen-Xin and Chan, H. Anthony},  booktitle={TENCON 2022 - 2022 IEEE Region 10 Conference (TENCON)},   title={Quality Photo Sketch with Improved Deep Learning Structure},   year={2022},  volume={},  number={},  pages={1-6},  doi={10.1109/TENCON55691.2022.9978022}}
+@INPROCEEDINGS{9978022,
+  author={Hui, Chun-Chuen and Siu, Wan-Chi and Zhang, Wen-Xin and Chan, H. Anthony},  
+  booktitle={TENCON 2022 - 2022 IEEE Region 10 Conference (TENCON)},   
+  title={Quality Photo Sketch with Improved Deep Learning Structure},   
+  year={2022}, 
+  volume={},  
+  number={},  
+  pages={1-6},  
+  doi={10.1109/TENCON55691.2022.9978022}}
 ```
 
 # Implementation
